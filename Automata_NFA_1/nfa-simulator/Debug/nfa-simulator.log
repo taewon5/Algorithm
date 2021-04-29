@@ -1,0 +1,11 @@
+﻿  nfa-simulator.cpp
+C:\Users\taewon\source\repos\nfa-simulator\nfa-simulator\nfa-simulator.cpp(70,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\nfa-simulator\nfa-simulator\nfa-simulator.cpp(74,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\nfa-simulator\nfa-simulator\nfa-simulator.cpp(75,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\nfa-simulator\nfa-simulator\nfa-simulator.cpp(95,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\nfa-simulator\nfa-simulator\nfa-simulator.cpp(98,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\nfa-simulator\nfa-simulator\nfa-simulator.cpp(103,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\nfa-simulator\nfa-simulator\nfa-simulator.cpp(104,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\nfa-simulator\nfa-simulator\nfa-simulator.cpp(112,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\nfa-simulator\nfa-simulator\nfa-simulator.cpp(113,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  nfa-simulator.vcxproj -> C:\Users\taewon\source\repos\nfa-simulator\Debug\nfa-simulator.exe
