@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\taewon\source\repos\main\main\main.cpp(36,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(41,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(47,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(56,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(57,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(64,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(69,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(82,34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(93,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(94,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(100,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(106,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(109,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 356 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  main.vcxproj -> C:\Users\taewon\source\repos\main\Release\main.exe

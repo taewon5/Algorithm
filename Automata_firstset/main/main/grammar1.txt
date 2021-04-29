@@ -1,0 +1,8 @@
+S
+S -> a b V
+V -> U b U
+U -> S R
+U -> V U U
+U -> e
+R -> V
+R -> c
