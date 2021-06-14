@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\taewon\source\repos\main\main\main.cpp(36,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(37,17): warning C4244: '인수': 'double'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(38,20): warning C4244: '인수': 'double'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(40,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(44,37): warning C4244: '인수': 'double'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(45,48): warning C4244: '인수': 'double'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(57,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(61,26): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(71,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(83,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.vcxproj -> C:\Users\taewon\source\repos\main\Debug\main.exe
