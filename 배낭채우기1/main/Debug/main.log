@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\taewon\source\repos\main\main\main.cpp(43,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(61,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(74,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  main.vcxproj -> C:\Users\taewon\source\repos\main\Debug\main.exe
