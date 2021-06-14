@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\taewon\source\repos\main\main\main.cpp(48,58): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(60,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(69,12): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\taewon\source\repos\main\main\main.cpp(69,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  3 of 291 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  main.vcxproj -> C:\Users\taewon\source\repos\main\Release\main.exe
