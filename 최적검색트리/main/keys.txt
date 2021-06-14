@@ -1,0 +1,4 @@
+Done 0.375
+Isabelle 0.375
+Ralph 0.125
+Wally 0.125
